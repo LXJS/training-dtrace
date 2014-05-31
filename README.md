@@ -51,7 +51,6 @@ will be coming.
 
 ### Materials
 
-- code_example.js
 - More to come shortly
 
 ## 27 Jun 17:30h Participants
