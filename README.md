@@ -44,7 +44,13 @@ Or, you can install a base-64 image and then
 
 pkgin install node
 
-To run a machine in the Joyent cloud, go to http://www.joyent.com, create an account, and then provision a machine, (there are machines that have node pre-installed).
+To run a machine in the Joyent cloud, go to http://www.joyent.com,
+create an account, and then provision a machine, (there are machines
+that have node pre-installed).
+
+In the Joyent cloud, there is a free Developer Tier, which allows you to create one small instance valid for 1 year of trial usage. However, to provision that instance you must add a valid credit card to your account so we can validate that the account is not fraudulent.
+
+New accounts won’t be billed if they only provision that single developer tier instance.
 
 Test by running node on the code example in materials.  More examples
 will be coming.
