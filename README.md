@@ -59,10 +59,38 @@ will be coming.
 
 - More to come shortly
 
-## 27 Jun 17:30h Participants
+## 28 jun - 14:30h Participants
 
-`TBA`
+- Abel Soares - [abelsoares](https://github.com/abelsoares)
+- Dominic Lüchinger - [dol](https://github.com/dol)
+- Filipe Dias - [filipediasferreira](https://github.com/filipediasferreira)
+- Igor Soarez - [soarez](https://github.com/soarez)
+- James Nocentini - [jamiltz](https://github.com/jamiltz)
+- João Nelas - [adagios](https://github.com/adagios)
+- Jorge Monteiro - [jorgemonteiro](https://github.com/jorgemonteiro)
+- Marco Oliveira - [marcooliveira](https://github.com/marcooliveira)
+- Max Gfeller - [MaxGfeller](https://github.com/MaxGfeller)
+- Pierre Ozoux - [pierreozoux](https://github.com/pierreozoux)
+- Ricardo Tomasi - [ricardobeat](https://github.com/ricardobeat)
+- Robert Kowalski - [robertkowalski](https://github.com/robertkowalski)
+- Tiago Rodrigues - [trodrigues](https://github.com/trodrigues)
+- Tom Cartwright - [tomcartwrightuk](https://github.com/tomcartwrightuk)
 
-## 28 Jun 14:30h Participants
+## 27 jun - 17:30h Participants
 
-`TBA`
+- Daniel da Silva - [danielfdsilva](https://github.com/danielfdsilva)
+- David McMullin - [davecocoa](https://github.com/davecocoa)
+- Dominykas Blyžė - [dymonaz](https://github.com/dymonaz)
+- George Shank - [taterbase](https://github.com/taterbase)
+- Igor Soarez - [soarez](https://github.com/soarez)
+- Joaquim Serafim - [joaquimserafim](https://github.com/joaquimserafim)
+- Luís Ferreira - [zamith](https://github.com/zamith)
+- Luke Bond - [lukebond](https://github.com/lukebond)
+- Miguel Coquet - [mcoquet](https://github.com/mcoquet)
+- Miguel Palhas - [naps62](https://github.com/naps62)
+- Ricardo Melo - [rjsmelo](https://github.com/rjsmelo)
+- Ricardo Quintas - [rdquintas](https://github.com/rdquintas)
+- Ronaldo Sousa - [ronaldofs](https://github.com/ronaldofs)
+- Stefan Jansen - [xtravanta](https://github.com/xtravanta)
+- Thomas Parisot - [oncletom](https://github.com/oncletom)
+- Zoltan Feher - [zkiiito](https://github.com/zkiiito)
