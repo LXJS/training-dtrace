@@ -70,10 +70,12 @@ will be coming.
 - Thomas Parisot - [oncletom](https://github.com/oncletom)
 - George Shank - [taterbase](https://github.com/taterbase)
 - Dominykas Blyžė - [dymonaz](https://github.com/dymonaz)
+- Diogo Santos - [diogodssantos](https://github.com/diogodssantos)
 - Ricardo Melo - [rjsmelo](https://github.com/rjsmelo)
 - Zoltan Feher - [zkiiito](https://github.com/zkiiito)
 - Gábor Balázs - [balazsgabor](https://github.com/balazsgabor)
 - Miguel Coquet - [mcoquet](https://github.com/mcoquet)
+- Sergey Belov - [arikon](https://github.com/arikon)
 - Stefan Jansen - [xtravanta](https://github.com/xtravanta)
 - Ricardo Quintas - [rdquintas](https://github.com/rdquintas)
 - Luke Bond - [lukebond](https://github.com/lukebond)
@@ -89,6 +91,7 @@ will be coming.
 - Andrew Newdigate - [suprememoocow](https://github.com/suprememoocow)
 - Tom Gallacher - [tomgco](https://github.com/tomgco)
 - Thiago Dantas - [tdantas](https://github.com/tdantas)
+- João Andrade - [thejoaosa](https://github.com/thejoaosa)
 
 ## 28 jun - 14:30h Participants
 
@@ -125,3 +128,6 @@ will be coming.
 - Gergely Nemeth - [gergelyke](https://github.com/gergelyke)
 - Gegely Szanto - [szantogeri](https://github.com/szantogeri)
 - Ricardo Batista - [nihildacta](https://github.com/nihildacta)
+- Wilson Silva - [wilsonsilva](https://github.com/wilsonsilva)
+- Nuno Jesus - [nmjesus](https://github.com/nmjesus)
+- Joel Matias - [JoelBMatias](https://github.com/JoelBMatias)
